@@ -1,5 +1,4 @@
-# Syrex-website
-Official website for Syrex YouTube Growth Hub – Viral Shorts hooks, captions &amp; growth resources.
+
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
